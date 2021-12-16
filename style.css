@@ -732,6 +732,16 @@ h4 {
     color: #333333!important;
 }
 
+.quotes {
+    display: block;
+    width: 60%;
+    font-size: 20px;
+    font-style: italic;
+}
+
+.quotes-source {
+    font-size: 14px;
+}
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
